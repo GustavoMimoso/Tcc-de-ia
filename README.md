@@ -5,18 +5,6 @@ O objetivo é permitir que o operador controle o andamento do leilão sem usar t
 
 ---
 
-## 📋 Sumário
-- [Visão Geral](#visão-geral)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Funcionalidades](#funcionalidades)
-- [Gestos Suportados](#gestos-suportados)
-- [Interface do Sistema](#interface-do-sistema)
-- [Como Executar](#como-executar)
-- [Estrutura de Pastas](#estrutura-de-pastas)
-- [Possíveis Melhorias](#possíveis-melhorias)
-- [Autor](#autor)
-
----
 
 ## 💡 Visão Geral
 
@@ -87,7 +75,7 @@ A aplicação combina inteligência artificial e interface gráfica, integrando 
 ## 🚀 Como Executar
 
 1. Clone o repositório:
-git clone https://github.com/seuusuario/tcc-ia-leilao.git
+git clone https://github.com/GustavoMimoso/Tcc-de-ia.git
 cd tcc-ia-leilao
 
 text
@@ -131,8 +119,8 @@ text
 
 ## 👤 Autor
 
-**Seu Nome**  
+Gustavo Mimoso  
 Graduando em Engenharia da Computação  
 Projeto de Conclusão de Curso – Sistema de IA para Interação Gestual em Leilões  
-E-mail: seuemail@exemplo.com  
-GitHub: [https://github.com/seuusuario](https://github.com/seuusuario)
+E-mail: gustavomimoso@outlook.com  
+GitHub: [https://github.com/GustavoMimoso](https://github.com/GustavoMimoso)
