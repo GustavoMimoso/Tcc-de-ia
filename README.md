@@ -345,21 +345,6 @@ pip install --upgrade -r requirements.txt --no-cache-dir
 
 ---
 
-## 🚧 Roadmap de Melhorias
-
-- [ ] Interface web com Flask/React
-- [ ] Suporte a múltiplas webcams
-- [ ] Exportar relatórios em PDF
-- [ ] Integração com APIs de leilão
-- [ ] App mobile (React Native/Flutter)
-- [ ] Dashboard em tempo real com WebSocket
-- [ ] Reconhecimento multilingue
-- [ ] Análise de dados com gráficos
-- [ ] Backup automático na nuvem
-- [ ] Modo escuro na interface
-
----
-
 ## 📚 Referências e Documentação
 
 - [YOLOv8 - Ultralytics](https://docs.ultralytics.com)
